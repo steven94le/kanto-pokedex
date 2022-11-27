@@ -1,3 +1,18 @@
 body {
   background-image: url("/darkpattern.png");
 }
+
+.screen {
+  background: radial-gradient(circle, MediumAquaMarine, darkcyan);
+  border: 3px white solid;
+  position: sticky;
+  top: 100px;
+  width: 500px;
+}
+
+#gif {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
